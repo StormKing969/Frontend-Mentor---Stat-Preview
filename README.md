@@ -22,10 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
-## Desktop View
+### Desktop View
 ![Alt text](screenshots/desktopview-screenshot.png)
 
-## Mobile View
+### Mobile View
 ![Alt text](screenshots/mobileview-screenshot.png)
 
 ## My process
