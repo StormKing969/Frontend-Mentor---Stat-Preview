@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](./screenshots/desktopview-screenshot.jpg?raw=true)
-![Alt text](./screenshots/mobileview-screenshot.jpg?raw=true)
+![Alt text](screenshots/desktopview-screenshot.jpg?raw=true)
+![Alt text](screenshots/mobileview-screenshot.jpg?raw=true)
 
 ## My process
 
