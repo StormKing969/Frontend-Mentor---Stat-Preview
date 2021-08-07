@@ -123,8 +123,8 @@ h1 {
     .container {
         margin-left: auto;
         margin-right: auto;
-        margin-top: calc(80vh - 550px);
         width: fit-content;
+        margin-top: 8%;
         display: flex;
         flex-direction: row-reverse;
         border-radius: 20px;
