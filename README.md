@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](screenshots/desktopview-screenshot.jpg)
-![Alt text](screenshots/mobileview-screenshot.jpg)
+![Alt text](screenshots/desktopview-screenshot.png)
+![Alt text](screenshots/mobileview-screenshot.png)
 
 ## My process
 
